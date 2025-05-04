@@ -1,0 +1,16 @@
+SidebarBackground = RGBA(22, 23, 34, 1);
+SidebarBackgroundAlt = RGBA(0, 0, 0, 1);
+SidebarIconActive = RGBA(125, 86, 255, 1);
+SidebarIconInactive = RGBA(150, 153, 166, 1);
+SidebarHoverFill = RGBA(149, 149, 149, 0.2);
+PageBackground = RGBA(17, 18, 26, 1);
+CardBackground = RGBA(28, 29, 41, 1);
+CardTextTitle = RGBA(255, 255, 255, 1);
+CardTextBody = RGBA(170, 173, 188, 1);
+CardBadgeClients = RGBA(142, 67, 247, 1);
+CardBadgeOfficeWork = RGBA(247, 67, 67, 1);
+CardBadgePersonal = RGBA(130, 73, 247, 1);
+CardBadgeProject = RGBA(67, 142, 247, 1);
+AddNotesButtonBackground = RGBA(125, 86, 255, 1);
+AddNotesButtonText = RGBA(255, 255, 255, 1);
+TextSecondary = RGBA(125, 86, 255, 1);
